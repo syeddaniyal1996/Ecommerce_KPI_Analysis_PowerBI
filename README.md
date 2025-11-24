@@ -5,7 +5,7 @@ The E-commerce KPI Analysis project focused on building an interactive Power BI 
 <img width="1548" height="874" alt="01" src="https://github.com/user-attachments/assets/ed3bdb40-5cbe-4419-ba6e-774f5639e398" />
 
 # Market
-<img width="1556" height="880" alt="02" src="https://github.com/user-attachments/assets/b30bc7fd-df57-4e0c-afeb-5d9fb69ab161" />
+<img width="1469" height="818" alt="02" src="https://github.com/user-attachments/assets/3c78e0d5-0012-4080-a570-05cf4fd0f503" />
 
 # Segment & Categories
 <img width="1547" height="871" alt="03" src="https://github.com/user-attachments/assets/bf6283c9-7fe3-4977-a78e-f9cb9ccb9300" />
