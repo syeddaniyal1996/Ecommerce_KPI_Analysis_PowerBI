@@ -2,13 +2,13 @@
 The E-commerce KPI Analysis project focused on building an interactive Power BI dashboard to monitor key performance indicators across sales, customers, and operations. The goal was to provide management with a single source of truth for business health, track growth trends, and enable data-driven decisions in real time.
 
 # Overview
-<img width="987" height="564" alt="Page 01" src="https://github.com/user-attachments/assets/80212cfa-d81d-4ca7-8d38-408458c720c6" />
+
 
 # Region View
-<img width="995" height="557" alt="Page 02" src="https://github.com/user-attachments/assets/93ffe959-7712-4963-82b5-1635dc1947b7" />
+
 
 # Customer View
-<img width="996" height="556" alt="Page 03" src="https://github.com/user-attachments/assets/91def651-e53d-4bdb-8d91-874580c33935" />
+
 
 # Data Modelling
 <img width="719" height="469" alt="Modelling" src="https://github.com/user-attachments/assets/2326acb7-75e5-495f-bafa-71e95fdf327b" />
